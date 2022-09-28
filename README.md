@@ -1,4 +1,4 @@
-# Ola-Mundo
+# Olá Mundo
  Praticando Git/Github
 
  Repositório criado durante curso com o Guanabara em live.
